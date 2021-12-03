@@ -5,4 +5,4 @@
 
 
 
-![Delivery website](/preview.png)
+![mozilla website](/preview.png)
