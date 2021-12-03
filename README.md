@@ -1,14 +1,8 @@
-# Responsive Website Delivery 🚚
-## [Watch it on youtube](https://youtu.be/xOQU3YNHxJc)
-### Responsive Website Delivery
+# Mozilla Firefox Club VIT-B 🚀
 
-- Website Delivery, using HTML, Sass and JavaScript.
-- Includes a dark and light mode.
-- Color customization.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+### The official website of the Mozilla Firefox Club VIT-B
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+
+
 
 ![Delivery website](/preview.png)
-# mozilla-firefox-club-VITB-landing-page
